@@ -1,1 +1,1 @@
-# libflaticon
+# libflaticonfont
